@@ -105,10 +105,8 @@ else:
 ```
 <hr>
 <h2>Input and Output:</h2>
-SEND = 9567<br>
-MORE = 1085<br>
-<hr>
-MONEY = 10652<br>
-<hr>
+
+![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/7d95c419-bcae-4d3f-9109-d9b85733b670)
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
