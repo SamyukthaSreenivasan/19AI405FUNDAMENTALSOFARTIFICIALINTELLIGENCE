@@ -97,6 +97,7 @@ F H <BR>
 <hr>
 <h3>Output</h3>
 <hr>
+
 ![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/59202034-313d-48c9-8ea3-b95514a31a1b)
 
 <hr>
