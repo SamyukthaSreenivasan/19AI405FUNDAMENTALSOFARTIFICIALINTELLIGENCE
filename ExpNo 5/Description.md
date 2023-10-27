@@ -300,11 +300,15 @@ if __name__ == "__main__":
 <hr>
 <h2> Input and Output</h2>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8ca1b08a-8312-4ef5-89df-e69b7b2c3fa2)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/dc06427a-d4ce-43a1-95bd-9acfaefac323)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
+![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/52b32fc1-9ab8-4f27-9dc8-9e1b48ea7b13)
+
+![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/2d3cb467-da2b-4b53-bcbf-22af64e96a3d)
+
+![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/6644131e-cd66-4e8a-8b0c-cccb2323046a)
+
+![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/bc413641-6ea6-4c00-9921-c04c6a56808f)
+
+![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/e6465f8a-53c2-4aac-ab5b-c53d48ea0521)
 
 <hr>
 <h2>Result:</h2>
