@@ -115,6 +115,7 @@ G F <BR>
 <hr>
 <h3>Output</h3>
 <hr>
+
 ![WhatsApp Image 2023-10-27 at 11 33 37_e08ccd11](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/b5bd217b-ef74-405f-b102-4589cb47c65f)
 
 <hr>
@@ -132,11 +133,12 @@ G F <BR>
 <hr>
 <h3>Output</h3>
 <hr>
+
 ![WhatsApp Image 2023-10-27 at 11 35 56_a112a6bb](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/98797c04-6d0f-4c1d-b4bf-144cfabc96fa)
 
-<hr>
+</hr>
 <h3>Result:</h3>
-<hr>
+
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
 
 
