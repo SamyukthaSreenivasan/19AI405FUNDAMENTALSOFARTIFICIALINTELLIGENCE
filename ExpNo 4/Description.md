@@ -76,8 +76,8 @@ def SimpleHillClimbing():
 
 SimpleHillClimbing()
 ```
-<h2>Input</h2>
-<h2> String:</h2> Artificial Intelligence
+
+<h2> Input String:</h2> Artificial Intelligence
 <h2>Output:</h2>
 
 ![image](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/847eaf47-febb-4834-817e-3efea858199c)
