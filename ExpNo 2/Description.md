@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Samyuktha S</h3>
+<h3>Register Number: 212222240089 </h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -66,8 +66,40 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 </ol>
+</hr>
 
-<hr>
+###Program:
+```
+from collections import defaultdict
+from collections import deque
+def bfs(graph,start,visited,path):
+    queue=deque()
+    path.append(start)
+    queue.append(start)
+    visited[start]=True
+    while len(queue)!=0:
+        tmpnode=queue.popleft()
+        for neighbour in graph[tmpnode]:
+            if visited[neighbour]==False:
+                path.append(neighbour)
+                queue.append(neighbour)
+                visited[neighbour]=True
+    return path
+
+graph=defaultdict(list)
+n,e=map(int,input().split())
+for i in range(e):
+    u,v=map(int,input().split())
+    graph[v].append(u)
+    graph[u].append(v)
+#print(graph)
+start=0
+visited=defaultdict(bool)
+path=[]
+traversedpath= bfs(graph,start,visited,path)
+print(traversedpath)
+```
+
 <h3>Sample Input</h3>
 <hr>
 7 9 <BR>
@@ -81,14 +113,14 @@ D E <BR>
 D G <BR>
 G F <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
+![WhatsApp Image 2023-10-27 at 11 33 37_e08ccd11](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/b5bd217b-ef74-405f-b102-4589cb47c65f)
 
 <hr>
 
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 5 6 <BR>
 0 1 <BR>
@@ -98,9 +130,10 @@ G F <BR>
 2 4 <BR>
 3 4 <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+![WhatsApp Image 2023-10-27 at 11 35 56_a112a6bb](https://github.com/SamyukthaSreenivasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119475703/98797c04-6d0f-4c1d-b4bf-144cfabc96fa)
+
 <hr>
 <h3>Result:</h3>
 <hr>
